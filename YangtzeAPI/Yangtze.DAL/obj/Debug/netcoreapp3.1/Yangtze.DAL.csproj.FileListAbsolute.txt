@@ -1,0 +1,11 @@
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.DAL\bin\Debug\netcoreapp3.1\Yangtze.DAL.deps.json
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.DAL\bin\Debug\netcoreapp3.1\Yangtze.DAL.dll
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.DAL\obj\Debug\netcoreapp3.1\Yangtze.DAL.AssemblyInfoInputs.cache
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.DAL\obj\Debug\netcoreapp3.1\Yangtze.DAL.AssemblyInfo.cs
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.DAL\bin\Debug\netcoreapp3.1\Yangtze.DAL.pdb
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.DAL\obj\Debug\netcoreapp3.1\Yangtze.DAL.csproj.CoreCompileInputs.cache
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.DAL\obj\Debug\netcoreapp3.1\Yangtze.DAL.dll
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.DAL\obj\Debug\netcoreapp3.1\Yangtze.DAL.pdb
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.DAL\bin\Debug\netcoreapp3.1\Yangtze.DAL.runtimeconfig.json
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.DAL\bin\Debug\netcoreapp3.1\Yangtze.DAL.runtimeconfig.dev.json
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.DAL\obj\Debug\netcoreapp3.1\Yangtze.DAL.genruntimeconfig.cache

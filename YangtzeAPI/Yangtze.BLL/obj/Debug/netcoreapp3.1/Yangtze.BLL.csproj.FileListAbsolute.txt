@@ -1,0 +1,12 @@
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.BLL\bin\Debug\netcoreapp3.1\Yangtze.BLL.deps.json
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.BLL\bin\Debug\netcoreapp3.1\Yangtze.BLL.dll
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.BLL\bin\Debug\netcoreapp3.1\Yangtze.BLL.pdb
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.BLL\bin\Debug\netcoreapp3.1\Yangtze.DAL.dll
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.BLL\bin\Debug\netcoreapp3.1\Yangtze.DAL.pdb
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.BLL\obj\Debug\netcoreapp3.1\Yangtze.BLL.csprojAssemblyReference.cache
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.BLL\obj\Debug\netcoreapp3.1\Yangtze.BLL.AssemblyInfoInputs.cache
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.BLL\obj\Debug\netcoreapp3.1\Yangtze.BLL.AssemblyInfo.cs
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.BLL\obj\Debug\netcoreapp3.1\Yangtze.BLL.csproj.CoreCompileInputs.cache
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.BLL\obj\Debug\netcoreapp3.1\Yangtze.BLL.csproj.CopyComplete
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.BLL\obj\Debug\netcoreapp3.1\Yangtze.BLL.dll
+C:\Practice\Yangtze\YangtzeAPI\Yangtze.BLL\obj\Debug\netcoreapp3.1\Yangtze.BLL.pdb
